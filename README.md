@@ -1,5 +1,3 @@
-[![MasterHead](https://images.unsplash.com/photo-1518779578993-ec3579fee39f?auto=format&fit=crop&w=1500&q=80)]()
-
 <h1 align="center">Hi 👋, I'm Sudarshan</h1>
 <h3 align="center">Computer Science Student | Learning & Building</h3>
 
