@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sudarshan</h1>
 <h3 align="center">Computer Science Student | Learning & Building</h3>
 
-<img align="right" alt="Coding" width="320" <img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+<img align="right" width="280" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
 
 ---
 
